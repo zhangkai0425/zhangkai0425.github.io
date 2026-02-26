@@ -3,7 +3,7 @@ title: "LATTE: A Decoding Architecture for Quantum Computing with Temporal and S
 collection: publications
 category: preprints
 permalink: /publication/2025-09-latte
-excerpt: 'This paper is about real-time decoding for quantum error correction'
+excerpt: 'This paper is about real-time decoding for quantum error correction.'
 date: 2025-09-04
 venue: 'arXiv'
 slidesurl: 'https://finite-dimensional.space/lib/exe/fetch.php?media=seminar:latte-20241104.pdf'
@@ -16,5 +16,3 @@ citation: 'Zhang, K., Xu, J., Zhang, F., Kong, L., Ji, Z., & Chen, J. (2025). LA
 Quantum error correction allows inherently noisy quantum devices to emulate an ideal quantum computer with reasonable resource overhead. As a crucial component in developing fault-tolerant quantum computers, decoding architectures --- designed to effectively manage a large number of physical qubits to ensure reliable computation --- have received significant attention recently, amid rapid advances in quantum hardware.
 
 In this paper, we introduce LATTE, an FPGA-CPU hybrid decoding architecture aiming to address the key requirements of scaling up, especially in lattice surgery quantum computation --- **L**atency, **A**ccuracy, **T**hroughput and **T**ransmission Bandwidth, in an **E**clectic manner. LATTE follows a hierarchical design: (1) A fully streaming and asynchronous block decoding system on CPU to enable parallelization both temporally and spatially. (2) An ultra-lightweight yet accurate neural local decoding unit integrated with quantum control hardware on FPGA, which remains transparent to the block decoding system, effectively reducing transmission bandwidth and accelerating the decoding process.
-
-As a decoding architecture, LATTE is compatible with various base decoders, delivering accuracy on par with the base decoder while achieving real-time decoding throughput and significantly reducing both bandwidth requirements and computational resources, enabling a level of scalability far beyond previous approaches. Under circuit-level noise $p=0.001$, LATTE achieves over $\mathbf{90\%}$ reduction in transmission bandwidth and a $\mathbf{6.4\times}$ speedup on average in single-block decoding. In the streaming decoding scenario for logical quantum operations: (1) LATTE achieves constant and low latency ($\mathbf{16\times}$--$\mathbf{20\times}$ speedup over existing streaming decoding implementations) in arbitrarily long quantum memory experiments, with near-optimal computational resources --- merely $\mathbf{2}$ threads are sufficient for decoding the surface code with distance up to $17$. (2) LATTE minimizes latency in multi-patch measurement experiments through highly parallelized decoding operations. These combined efforts ensure sufficient scalability for large-scale fault-tolerant quantum computing.

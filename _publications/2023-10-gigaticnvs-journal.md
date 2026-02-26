@@ -3,7 +3,7 @@ title: "GiganticNVS: Gigapixel Large-Scale Neural Rendering With Implicit Meta-D
 collection: publications
 category: manuscripts
 permalink: /publication/2023-10-gigaticnvs
-excerpt: 'This paper is about the 3D vision and 3D reconstruction'
+excerpt: 'This paper is about the 3D vision and 3D reconstruction.'
 date: 2023-10-09
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10274871'

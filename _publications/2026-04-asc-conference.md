@@ -1,0 +1,16 @@
+---
+title: "Optimal Compilation of Syndrome Extraction  Circuits for General Quantum LDPC Codes"
+collection: publications
+category: conferences
+permalink: /publication/2025-11-asc
+excerpt: 'This paper is about syndrome extraction circuits compilation.'
+date: 2026-04-20
+venue: 'Design, Automation and Test in Europe Conference (DATE 2026)'
+---
+## Abstract
+
+Quantum error correcting codes (QECC) are essential for constructing large-scale quantum computers that deliver faithful results. As strong competitors to the conventional surface code, quantum low-density parity-check (qLDPC) codes are emerging rapidly: they offer high encoding rates while maintaining reasonable physical-qubit connectivity requirements. Despite the existence of numerous code constructions, a notable gap persists between these designs---some of which remain purely theoretical---and their circuit-level deployment.
+
+In this work, we propose Auto-Stabilizer-Check (ASC), a universal compilation framework that generates depth-optimal syndrome extraction circuits for arbitrary qLDPC codes. ASC leverages the sparsity of parity-check matrices and exploits the commutativity of X and Z stabilizer measurement subroutines to search for optimal compilation schemes. By iteratively invoking an SMT solver, ASC returns a depth-optimal solution if a satisfying assignment is found, and a near-optimal solution in cases of solver timeouts. Notably, ASC provides the first definitive answer to one of IBM's open problems: for all instances of bivariate bicycle (BB) code reported in their work, our compiler certifies that no depth-6 syndrome extraction circuit exists.
+
+Furthermore, by integrating ASC with an end-to-end evaluation framework---one that assesses different compilation settings under a circuit-level noise model---ASC reduces circuit depth by approximately **50%** and achieves an average **7x-8x** suppression of the logical error rate for general qLDPC codes, compared with as-soon-as-possible (ASAP) and coloration-based scheduling. ASC thus substantially reduces manual design overhead and demonstrates its strong potential to serve as a key component in accelerating hardware deployment of qLDPC codes.
