@@ -13,13 +13,13 @@ My research focus on **Fault-tolerant Quantum Computing Architecture** and **Qua
 News
 ----
 
-**[2026-02]** 🌟🌟🌟 Our paper about syndrome measurement circuit compilation "*NEAT: A Neutral-Atom Transpiler for Joint Mapping and Scheduling of Syndrome Extraction Circuits*" is accepted by [DAC 2026](https://dac.com/2026).
+**[2026-02]** 🌟🌟🌟 Our paper about syndrome measurement circuit compilation: "*NEAT: A Neutral-Atom Transpiler for Joint Mapping and Scheduling of Syndrome Extraction Circuits*" is accepted by [DAC 2026](https://dac.com/2026).
 
 **[2026-01]** Our paper about parallel neural network decoding: [Learning to Decode in Parallel: Self-Coordinating Neural Network for Real-Time Quantum Error Correction](https://arxiv.org/pdf/2601.09921) is avaible on **arXiv**.
 
 **[2025-11]** Our survey paper on Quantum Design Automation: [Quantum Design Automation: Foundations, Challenges, and the Road Ahead](https://arxiv.org/pdf/2511.10479) is available on **arXiv**.
 
-**[2025-11]** 🌟🌟🌟 Our paper about syndrome measurement circuit compilation "*Optimal Compilation of Syndrome Extraction  Circuits for General Quantum LDPC Codes*" is accepted by [DATE 2026](https://www.date-conference.com). The code is available on Github: [https://github.com/iqubit-org/Auto-Stabilizer-Check](https://github.com/iqubit-org/Auto-Stabilizer-Check).
+**[2025-11]** 🌟🌟🌟 Our paper about syndrome measurement circuit compilation: "*Optimal Compilation of Syndrome Extraction  Circuits for General Quantum LDPC Codes*" is accepted by [DATE 2026](https://www.date-conference.com). The code is available on Github: [https://github.com/iqubit-org/Auto-Stabilizer-Check](https://github.com/iqubit-org/Auto-Stabilizer-Check).
 
 **[2025-09]** Our paper about real-time decoding: [LATTE: A Decoding Architecture for Quantum Computing with Temporal and Spatial Scalability](https://arxiv.org/pdf/2509.03954) is available on **arXiv**.
 
