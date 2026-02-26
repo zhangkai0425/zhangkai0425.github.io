@@ -2,7 +2,8 @@
 title: "Optimal Compilation of Syndrome Extraction  Circuits for General Quantum LDPC Codes"
 collection: publications
 category: conferences
-permalink: /publication/2025-11-asc
+permalink: /publication/2026-04-asc-conference
+
 excerpt: 'This paper is about syndrome extraction circuits compilation.'
 date: 2026-04-20
 venue: 'Design, Automation and Test in Europe Conference (DATE 2026)'

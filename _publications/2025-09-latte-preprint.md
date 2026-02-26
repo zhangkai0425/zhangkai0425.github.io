@@ -2,7 +2,7 @@
 title: "LATTE: A Decoding Architecture for Quantum Computing with Temporal and Spatial Scalability"
 collection: publications
 category: preprints
-permalink: /publication/2025-09-latte
+permalink: /publication/2025-09-latte-preprint
 excerpt: 'This paper is about real-time decoding for quantum error correction.'
 date: 2025-09-04
 venue: 'arXiv'

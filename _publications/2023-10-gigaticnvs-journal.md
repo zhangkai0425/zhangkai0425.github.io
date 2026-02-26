@@ -2,7 +2,7 @@
 title: "GiganticNVS: Gigapixel Large-Scale Neural Rendering With Implicit Meta-Deformed Manifold"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-10-gigaticnvs
+permalink: /publication/2023-10-gigaticnvs-journal
 excerpt: 'This paper is about the 3D vision and 3D reconstruction.'
 date: 2023-10-09
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
