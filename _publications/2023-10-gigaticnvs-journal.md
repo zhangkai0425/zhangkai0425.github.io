@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2023-10-gigaticnvs-journal
 excerpt: 'This paper is about the 3D vision and 3D reconstruction.'
 date: 2023-10-09
-venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
+venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10274871'
 bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:UPNg9odGySwJ:scholar.google.com/&output=citation&scisdr=Cl9MYPLIELfLyxU6RSk:AFtJQiwAAAAAaaA8XSn2mD3X1yK64rU7z0g_WAc&scisig=AFtJQiwAAAAAaaA8XbYsDrJ84HSKPPpsVDc3djg&scisf=4&ct=citation&cd=-1&hl=zh-CN'
 citation: 'Wang, G., Zhang, J., Zhang, K., Huang, R., & Fang, L. (2023). Giganticnvs: Gigapixel large-scale neural rendering with implicit meta-deformed manifold. IEEE Transactions on Pattern Analysis and Machine Intelligence, 46(1), 338-353.'
