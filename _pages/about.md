@@ -10,8 +10,10 @@ I am a third year Ph.D student in the Department of Computer Science and Technol
 
 My research focus on **Fault-tolerant Quantum Computing Architecture** and **Quantum Error Correction**. I have broad research interests in scalable decoding architectures, compilation of syndrome measurement circuits, and the application of machine learning methods to address challenges in quantum error correction.
 
-News
-----
+
+> It is important to talk about an idea first. More importantly, building upon the idea is as important as initiating to talk about it.
+
+
 
 **[2026-02]** 🌟🌟🌟 Our paper about syndrome measurement circuit compilation: "*NEAT: A Neutral-Atom Transpiler for Joint Mapping and Scheduling of Syndrome Extraction Circuits*" is accepted by [DAC 2026](https://dac.com/2026).
 
