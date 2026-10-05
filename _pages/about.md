@@ -14,6 +14,8 @@ My research focuses on **Fault-tolerant Quantum Computing Architecture** and **Q
 
 ## News
 
+**[2026-07]** 🌟🌟🌟 Selected as a [DAC Young Fellow](https://dac.com/2027/dac-young-fellows) for DAC 2027.
+
 **[2026-03]** 🌟🌟🌟 Our paper about compilation with advanced quantum instrustion set architecture: "*Efficient Qubit Routing for Diverse Quantum ISAs via Canonical Representation*" is accepted by [ISCA 2026](https://iscaconf.org/isca2026/).
 
 **[2026-02]** 🌟🌟🌟 Our paper about syndrome measurement circuit compilation: "*NEAT: A Neutral-Atom Transpiler for Joint Mapping and Scheduling of Syndrome Extraction Circuits*" is accepted by [DAC 2026](https://dac.com/2026).
