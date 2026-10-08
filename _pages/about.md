@@ -14,6 +14,8 @@ My research focuses on **Fault-tolerant Quantum Computing Architecture** and **Q
 
 ## News
 
+**[2026-09]** 🌟🌟🌟 Our paper about parallel neural network decoding: "Learning parallel decoding for real-time quantum error correction" is accepted by [Nature Machine Intelligence](https://www.nature.com/natmachintell/).
+
 **[2026-07]** 🌟🌟🌟 Selected as a [DAC Young Fellow](https://dac.com/2027/dac-young-fellows) for DAC 2027.
 
 **[2026-03]** 🌟🌟🌟 Our paper about compilation with advanced quantum instrustion set architecture: "*Efficient Qubit Routing for Diverse Quantum ISAs via Canonical Representation*" is accepted by [ISCA 2026](https://iscaconf.org/isca2026/).
