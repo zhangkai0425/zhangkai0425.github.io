@@ -14,7 +14,7 @@ My research focuses on **Fault-tolerant Quantum Computing Architecture** and **Q
 
 ## News
 
-**[2026-09]** 🌟🌟🌟 Our paper about parallel neural network decoding: "Learning parallel decoding for real-time quantum error correction" is accepted by [Nature Machine Intelligence](https://www.nature.com/natmachintell/).
+**[2026-09]** 🌟🌟🌟 Our paper about parallel neural network decoding: "*Learning parallel decoding for real-time quantum error correction*" is accepted by [Nature Machine Intelligence](https://www.nature.com/natmachintell/).
 
 **[2026-07]** 🌟🌟🌟 Selected as a [DAC Young Fellow](https://dac.com/2027/dac-young-fellows) for DAC 2027.
 
